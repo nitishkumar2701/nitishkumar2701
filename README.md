@@ -22,7 +22,7 @@ I build systems that transform data into insights and ideas into reality. My wor
 
 **Languages & Frameworks**
 ```
-C# • .NET • Python • JavaScript • TypeScript
+C# • .NET • Python • JavaScript • TypeScript • React
 ```
 
 **Cloud & Infrastructure**
@@ -39,7 +39,7 @@ MLflow • Jupyter • OpenAI APIs
 **Data Engineering**
 ```
 SQL • NoSQL • Apache Spark • ETL/ELT Pipelines
-Azure Synapse • Databricks
+Azure Synapse • Databricks • Datawarehousing
 ```
 
 **Web Development**
