@@ -50,7 +50,7 @@ HTML5 • CSS3 • Blazor
 
 **Data Visualization**
 ```
-Power BI • Plotly • D3.js • Matplotlib • Seaborn
+Power BI • Tableau • Matplotlib • Seaborn
 ```
 
 **DevOps & Tools**
