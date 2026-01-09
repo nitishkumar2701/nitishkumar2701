@@ -33,7 +33,7 @@ Azure • Azure ML • Azure Functions • Azure Data Factory
 **Data Science & ML**
 ```
 TensorFlow • PyTorch • scikit-learn • Pandas • NumPy
-MLflow • Jupyter • OpenAI APIs
+MLflow • Jupyter • OpenAI APIs • LLMs • RAG/GRAPH RAG
 ```
 
 **Data Engineering**
