@@ -63,8 +63,6 @@ I'm always up for a deep dive into:
 -  Building scalable data architectures
 -  Data-driven product development
 
-Feel free to reach out—let's build something impactful together!
-
 ---
 
 ## 🔗 Find Me Online
