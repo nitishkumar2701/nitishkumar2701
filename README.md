@@ -48,20 +48,20 @@ Integrating **Azure OpenAI** to auto-categorize tickets and suggest resolutions 
 
 | Focus | What I Do |
 |-------|-----------|
-| 💎 **Data Engineering** | Designing robust ETL/ELT pipelines that handle scale without breaking a sweat. |
-| ⚡ **\.NET Applications** | Crafting clean, maintainable APIs using the latest C# features. |
-| 📊 **Visual Storytelling** | Creating dashboards that actually drive business decisions, not just "look pretty." |
-| 🤖 **Pragmatic AI** | Implementing LLMs where they add real value, like RAG systems for enterprise data. |
+| **Data Engineering** | Designing robust ETL/ELT pipelines that handle scale without breaking a sweat. |
+| **\.NET Applications** | Crafting clean, maintainable APIs using the latest C# features. |
+| **Visual Storytelling** | Creating dashboards that actually drive business decisions, not just "look pretty." |
+| **Pragmatic AI** | Implementing LLMs where they add real value, like RAG systems for enterprise data. |
 
 ---
 
 ## 🤝 Let's Connect
 
 I'm always up for a deep dive into:
-- 🗄️ Database internals and optimization
-- 🧠 The future of Generative AI in the Microsoft stack
-- 🔄 Building scalable data architectures
-- 📈 Data-driven product development
+-  Database internals and optimization
+-  The future of Generative AI in the Microsoft stack
+-  Building scalable data architectures
+-  Data-driven product development
 
 Feel free to reach out—let's build something impactful together!
 
