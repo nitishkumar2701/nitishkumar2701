@@ -71,7 +71,7 @@ Feel free to reach out—let's build something impactful together!
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/](https://www.linkedin.com/in/nitish-kumar-739062189/) |
+| 🌐 **LinkedIn** | [linkedin.com/](https://www.linkedin.com/in/nitish-kumar-739062189/) |
 | 🌐 **Personal Portfolio** | [portfolio.com/](https://nitishkumar.onrender.com/) |
 | 🌐 **Tableau Portfolio** | [tableau.com/](https://public.tableau.com/app/profile/nitish.kumar1061/vizzes) |
 | 🌐 **Instagram** | [instagram.com/](https://www.instagram.com/nitish.lee/) |
