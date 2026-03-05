@@ -4,7 +4,7 @@
 
 I build systems that don't just process data—they make sense of it. My work lives at the intersection of robust **.NET 10** backends and high-scale data pipelines. I'm passionate about turning messy, unstructured datasets into high-performance SQL architectures and compelling visual stories.
 
-> When the IDE is closed, you'll find me on the badminton court 
+> When the IDE is closed, you'll find me on the badminton court 🎾
 
 ---
 
@@ -64,4 +64,13 @@ I'm always up for a deep dive into:
 - 📈 Data-driven product development
 
 Feel free to reach out—let's build something impactful together!
+
+---
+
+## 🔗 Find Me Online
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/nitish](https://www.linkedin.com/in/nitish-kumar-739062189/) |
+| 🌐 **Personal Portfolio** | [nitish.dev](https://nitishkumar.onrender.com/) |
 
