@@ -2,7 +2,7 @@
 
 **Software Developer • Data Engineer • AI Explorer**
 
-I build systems that don't just process data—they make sense of it. My work lives at the intersection of robust **.NET 10** backends and high-scale data pipelines. I'm passionate about turning messy, unstructured datasets into high-performance SQL architectures and compelling visual stories.
+I build systems that don't just process data—they make sense of it. My work lives at the intersection of robust **.NET** backends and high-scale data pipelines. I'm passionate about turning messy, unstructured datasets into high-performance SQL architectures and compelling visual stories.
 
 > When the IDE is closed, you'll find me on the badminton court 
 
