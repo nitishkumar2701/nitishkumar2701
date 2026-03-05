@@ -71,6 +71,6 @@ Feel free to reach out—let's build something impactful together!
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/nitish](https://www.linkedin.com/in/nitish-kumar-739062189/) |
-| 🌐 **Personal Portfolio** | [nitish.dev](https://nitishkumar.onrender.com/) |
+| 💼 **LinkedIn** | [linkedin.com/](https://www.linkedin.com/in/nitish-kumar-739062189/) |
+| 🌐 **Personal Portfolio** | [portfolio.com/](https://nitishkumar.onrender.com/) |
 
