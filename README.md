@@ -5,7 +5,7 @@
 
 I don't just write code — I engineer **data systems that think**, **backends that scale**, and **AI pipelines that actually work in production**. From Graph RAG and agentic AI to serverless cloud architecture and full-stack apps — this is where it all lives.
 
-📍 Ireland &nbsp;·&nbsp; 🎓 MSc Data Analytics &nbsp;·&nbsp; ☁️ Azure Certified &nbsp;·&nbsp; 3+ years in the field
+📍 Ireland &nbsp;·&nbsp; 🎓 MSc Data Analytics &nbsp;·&nbsp; 3+ years in the field
 
 ---
 
