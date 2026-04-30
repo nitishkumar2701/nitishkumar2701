@@ -1,4 +1,4 @@
-# Aloha, I'm Nitish Kumar
+# Hello, I'm Nitish Kumar
 ### Full-Stack Engineer · Data & AI Architect · Cloud Builder
 
 > 💡 *"Data is only as powerful as the system built around it — so I build both."*
