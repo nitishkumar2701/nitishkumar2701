@@ -16,8 +16,8 @@ I don't just write code — I engineer **data systems that think**, **backends t
 | 🤖 **AI / LLMs** | RAG · Graph RAG · Agentic AI · LLM Integration · Prompt Engineering · Vector Search · Azure OpenAI |
 | 🗄️ **Data Engineering** | ADF · Kafka · SSIS · ETL/ELT · Cosmos DB · Azure SQL · MongoDB · SQL Optimisation |
 | ☁️ **Cloud** | Azure (Certified) · AWS · Azure Functions · Serverless · CI/CD Pipelines |
-| 🖥️ **Full-Stack** | .NET · C# · Python · React · JavaScript · REST APIs · HTML/CSS |
-| 📊 **Analytics & Viz** | Power BI · Tableau · Python Analytics · Statistical Modelling · React Dashboards |
+| 🖥️ **Full-Stack** | .NET · C# · Python · JavaScript · React · Nodejs · Graphql/REST APIs · HTML/CSS |
+| 📊 **Analytics & Viz** | Power BI · Tableau · Python Analytics · Statistical Modelling · Dashboards · Datawarehousing |
 
 ---
 
